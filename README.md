@@ -63,6 +63,6 @@ I am passionate about transforming raw data into meaningful insights through ana
 
 - GitHub: https://github.com/vkselvan
 - LinkedIn: *(Add your LinkedIn profile)*
-- Email: *(Add your professional email)*
+- Email: vkselvan04@gmail.com
 
 ⭐ Thanks for visiting my profile!
