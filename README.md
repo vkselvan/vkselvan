@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.png" alt="Banner">
-</p>
+
 # Hi 👋 I'm Kalai Selvan
 
 🎓 B.E. Electrical and Electronics Engineering Graduate
