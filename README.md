@@ -29,13 +29,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Kalai's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkselvan&show_icons=true&theme=tokyonight)
-
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkselvan&layout=compact&theme=tokyonight)
 
 ## 📂 Featured Projects
 
@@ -58,7 +51,9 @@ I am passionate about transforming raw data into meaningful insights through ana
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/vkselvan
-- LinkedIn: *(Add your LinkedIn profile)*
+- LinkedIn: www.linkedin.com/in/
+kalai-selvan-18a8ba253
+
 - Email: vkselvan04@gmail.com
 
 ⭐ Thanks for visiting my profile!
