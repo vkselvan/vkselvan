@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Banner">
+</p>
 # Hi 👋 I'm Kalai Selvan
 
 🎓 B.E. Electrical and Electronics Engineering Graduate
@@ -17,29 +20,24 @@
 
 ## 🛠️ Technical Skills
 
-**Programming**
-- Python
-- SQL
 
-**Data Analysis**
-- Pandas
-- NumPy
-- Matplotlib
-- Power BI
-- Microsoft Excel
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Tools**
-- Git
-- GitHub
-- MySQL
-- VS Code
+## 📊 GitHub Stats
 
-**Currently Learning**
-- Statistics
-- Machine Learning
-- Scikit-learn
+![Kalai's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkselvan&show_icons=true&theme=tokyonight)
 
----
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkselvan&layout=compact&theme=tokyonight)
 
 ## 📂 Featured Projects
 
